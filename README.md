@@ -18,7 +18,7 @@ A web application that displays a list of cards with filtering and search capabi
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com//card-listing.git`
+1. Clone the repository: `git clone https://github.com/Shivam86041/card-listing.git`
 2. Navigate to the project directory: `cd card-listing`
 3. Install the dependencies: `npm install`
 
